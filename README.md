@@ -1,3 +1,5 @@
+[Live](https://6867af169dbccc8b66f3a459--melodic-custard-45f5c7.netlify.app/)
+
 # 🚀 Professional React Resume
 
 A modern, responsive, and interactive resume built with React and Vite, featuring a sophisticated grey/silver design theme.
